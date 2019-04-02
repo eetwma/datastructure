@@ -1,5 +1,5 @@
-public class Selectionsort {
-    public static int[] ssort(int[] array) {
+public class selectionsort {
+    public static void ssort(int[] array) {
       int n = array.length;
       for(int i = 0;i<n;i++)
       {

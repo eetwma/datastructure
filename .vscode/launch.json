@@ -6,6 +6,12 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - selectionsort",
+            "request": "launch",
+            "mainClass": "selectionsort"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - Selectionsort",
             "request": "launch",
             "mainClass": "Selectionsort"
