@@ -45,7 +45,7 @@ public class quicksort {
             System.out.print(arr[i]+" "); 
         System.out.println(); 
     } 
-    public static void main(String args[]) 
+    public static void main(String[] args) 
     { 
         int[] array = { 5, 4, 6, 1, 3, 2, 7, 8, 9 }; 
         quickSort(array);

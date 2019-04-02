@@ -6,6 +6,12 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - rainbowsort",
+            "request": "launch",
+            "mainClass": "rainbowsort"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - quicksort",
             "request": "launch",
             "mainClass": "quicksort"
