@@ -6,6 +6,24 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - minheap",
+            "request": "launch",
+            "mainClass": "minheap"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - heap",
+            "request": "launch",
+            "mainClass": "heap"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Example",
+            "request": "launch",
+            "mainClass": "Example"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - binarytree",
             "request": "launch",
             "mainClass": "binarytree"
