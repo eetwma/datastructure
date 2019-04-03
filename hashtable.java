@@ -1,5 +1,6 @@
+//by geeksforgeeks
 import java.util.*; 
-class hashTabledemo { 
+class hashtable { 
     public static void main(String[] arg) 
     { 
         // creating a hash table 
@@ -9,8 +10,8 @@ class hashTabledemo {
         Hashtable<Integer, String> h1 = 
                       new Hashtable<Integer, String>(); 
   
-        h.put(3, "Geeks"); 
-        h.put(2, "forGeeks"); 
+        h.put(3, "We"); 
+        h.put(2, "SSCRG"); 
         h.put(1, "isBest"); 
   
         // create a clone or shallow copy of hash table h 

@@ -6,6 +6,18 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - hashtable",
+            "request": "launch",
+            "mainClass": "hashtable"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - demo",
+            "request": "launch",
+            "mainClass": "demo"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - hashTabledemo",
             "request": "launch",
             "mainClass": "hashTabledemo"
