@@ -6,6 +6,12 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - binarytree",
+            "request": "launch",
+            "mainClass": "binarytree"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - linkedlist",
             "request": "launch",
             "mainClass": "linkedlist"
