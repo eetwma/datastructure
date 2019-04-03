@@ -6,6 +6,12 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - getarrsize",
+            "request": "launch",
+            "mainClass": "getarrsize"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - rainbowsort",
             "request": "launch",
             "mainClass": "rainbowsort"
