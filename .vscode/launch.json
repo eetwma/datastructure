@@ -6,6 +6,12 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - linkedlist",
+            "request": "launch",
+            "mainClass": "linkedlist"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - queue",
             "request": "launch",
             "mainClass": "queue"
