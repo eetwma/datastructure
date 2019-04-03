@@ -6,6 +6,12 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - hashTabledemo",
+            "request": "launch",
+            "mainClass": "hashTabledemo"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - minheap",
             "request": "launch",
             "mainClass": "minheap"
