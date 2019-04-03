@@ -6,6 +6,12 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - arrsetandget",
+            "request": "launch",
+            "mainClass": "arrsetandget"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - getarrsize",
             "request": "launch",
             "mainClass": "getarrsize"
